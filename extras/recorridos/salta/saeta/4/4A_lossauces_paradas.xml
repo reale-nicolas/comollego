@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Paradas</name>
+    <Placemark>
+      <name>Marker PARADA 2</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.46022299999998,-24.7908449,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 3</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45721349999997,-24.790918,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 4</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45544860000001,-24.7910008,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 5</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45511599999998,-24.7927734,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 6</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4521656,-24.7935088,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 7</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45189199999999,-24.795486,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 8</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4506475,-24.7955396,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 9</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45000379999999,-24.7975119,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 10</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45035239999999,-24.7990215,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 11</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4509908,-24.8008817,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 12</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44929030000003,-24.8001415,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 13</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44753070000002,-24.7986514,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 14</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44567469999998,-24.7972537,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 17</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44380239999998,-24.795861,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 18</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4415816,-24.7942345,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 19</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44042289999999,-24.793952,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 20</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43887799999999,-24.7954958,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 21</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43653899999998,-24.7956078,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 22</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43389439999999,-24.7958026,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 23</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43114780000002,-24.7960022,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 24</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42841729999998,-24.7961678,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 25</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42696360000002,-24.7962749,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 26</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42415800000003,-24.7964502,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 27</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42143820000001,-24.7966547,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 28</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41809619999998,-24.7968204,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 29</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41560709999999,-24.7953838,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 30</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41529589999999,-24.7923449,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 31</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41486150000003,-24.7872946,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 32</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41453430000001,-24.7839633,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 33</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41307510000001,-24.7810801,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 34</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40901429999997,-24.7813479,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 35</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40772679999998,-24.7833205,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 36</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40802719999999,-24.7859163,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 37</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.406207,-24.787475,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 38</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4024857,-24.787845,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 39</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.402019,-24.7911518,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 40</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40384289999997,-24.7938741,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 41</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40978130000002,-24.7936598,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 43</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41482930000001,-24.7930754,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 44</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41718420000001,-24.7951695,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 45</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41855759999999,-24.7979307,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 46</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42095,-24.7978309,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 47</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42372879999999,-24.7976433,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 48</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4264915,-24.797468,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 49</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4292006,-24.797283,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 50</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4323119,-24.7970493,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 51</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43508529999997,-24.7966792,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 52</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43831469999998,-24.7964941,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 53</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44036920000002,-24.7935039,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 54</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44196249999999,-24.7941906,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 55</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44354499999997,-24.7953546,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 56</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4455299,-24.7968009,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 57</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4474664,-24.7984176,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 58</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44925810000001,-24.7998688,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 59</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45126970000001,-24.8004678,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 60</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45040069999999,-24.799304,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 61</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44989650000002,-24.7973268,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 62</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4501879,-24.7956371,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 63</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4516506,-24.7955055,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 64</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45194570000001,-24.7936695,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 62</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4551697,-24.7910592,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 63</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45513749999998,-24.7891404,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 64</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45513210000001,-24.7873579,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 65</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45512680000002,-24.7848692,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 66</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45523409999998,-24.7829941,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 67</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.45729929999999,-24.7813041,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 68</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4590374,-24.782361,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 69</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4583078,-24.7841143,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 70</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4575891,-24.7858457,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 71</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.4591474,-24.7868331,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 72</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.46075139999999,-24.7877901,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker Punto 73</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.46202540000002,-24.788545,0.0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

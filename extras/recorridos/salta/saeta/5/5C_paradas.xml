@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Paradas</name>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.445065,-24.799214,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44241699999998,-24.7992857,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44106049999999,-24.7986631,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44069999999999,-24.7973,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.439074,-24.7962564,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43938000000003,-24.794993,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44034499999998,-24.793554,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.439212,-24.791858,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43654200000003,-24.791907,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43268499999999,-24.792167,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.430812,-24.792852,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42962499999999,-24.793612,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42684199999997,-24.793806,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42404799999997,-24.794,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42128830000001,-24.7940826,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41872649999999,-24.7941669,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41538400000002,-24.793506,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41507999999999,-24.790256,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41475000000003,-24.786156,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.414398,-24.782799,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41184099999998,-24.781193,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40797199999997,-24.781452,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.404403,-24.781697,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40292399999998,-24.785449,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40212099999997,-24.790026,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40083700000002,-24.79379,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.40425800000003,-24.793948,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.407422,-24.793825,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41252800000001,-24.7931829,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker </name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.417664,-24.7928913,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.41978699999999,-24.793912,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42092500000001,-24.795323,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42375800000002,-24.795141,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42645600000003,-24.794953,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.42932100000002,-24.794759,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.432097,-24.794574,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43477200000001,-24.794411,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43677400000001,-24.794212,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43746899999996,-24.795349,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43755599999997,-24.796471,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43732890000001,-24.798035,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43667299999998,-24.799903,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43802499999998,-24.800088,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.43971999999997,-24.800085,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44151599999998,-24.799958,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44300699999997,-24.799832,0.0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marker 5C</name>
+      <descripcion>Marker descripcion</descripcion>
+      <orden>-10</orden>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>-65.44443999999999,-24.79976,0.0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

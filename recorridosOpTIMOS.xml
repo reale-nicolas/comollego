@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enlace>
+  <peso>984.6</peso>
+  <distancia>98.46</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>0</mediotransporte>
+  <nodo>
+    <latitud>-24.735772</latitud>
+    <longitud>-65.411512</longitud>
+    <tipo>1</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7360665</latitud>
+    <longitud>-65.412432</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>289.39</peso>
+  <distancia>289.39</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7360665</latitud>
+    <longitud>-65.412432</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7386664</latitud>
+    <longitud>-65.4125924</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>1062.98</peso>
+  <distancia>1062.98</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7386664</latitud>
+    <longitud>-65.4125924</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.748203</latitud>
+    <longitud>-65.411784</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>280.62</peso>
+  <distancia>280.62</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.748203</latitud>
+    <longitud>-65.411784</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7507072</latitud>
+    <longitud>-65.4121409</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>728.68</peso>
+  <distancia>728.68</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7507072</latitud>
+    <longitud>-65.4121409</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7572615</latitud>
+    <longitud>-65.412341</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>969.53</peso>
+  <distancia>969.53</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7572615</latitud>
+    <longitud>-65.412341</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7659846</latitud>
+    <longitud>-65.412475</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>530.88</peso>
+  <distancia>530.88</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7659846</latitud>
+    <longitud>-65.412475</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7706768</latitud>
+    <longitud>-65.4134616</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>307.36</peso>
+  <distancia>307.36</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7706768</latitud>
+    <longitud>-65.4134616</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.77304</latitud>
+    <longitud>-65.415044</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>219.86</peso>
+  <distancia>219.86</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.77304</latitud>
+    <longitud>-65.415044</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.774984</latitud>
+    <longitud>-65.415448</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>207.94</peso>
+  <distancia>207.94</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.774984</latitud>
+    <longitud>-65.415448</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.776855</latitud>
+    <longitud>-65.415428</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>280.96</peso>
+  <distancia>280.96</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.776855</latitud>
+    <longitud>-65.415428</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.779373</latitud>
+    <longitud>-65.415677</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>560.03</peso>
+  <distancia>560.03</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.779373</latitud>
+    <longitud>-65.415677</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.784392</latitud>
+    <longitud>-65.416174</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>6560</peso>
+  <distancia>65.6</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>0</mediotransporte>
+  <nodo>
+    <latitud>-24.784392</latitud>
+    <longitud>-65.416174</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7846014</latitud>
+    <longitud>-65.4167819</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>348.44</peso>
+  <distancia>348.44</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7846014</latitud>
+    <longitud>-65.4167819</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7854098</latitud>
+    <longitud>-65.4134452</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>369.39</peso>
+  <distancia>369.39</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7854098</latitud>
+    <longitud>-65.4134452</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7887216</latitud>
+    <longitud>-65.4137564</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>668.38</peso>
+  <distancia>668.38</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7887216</latitud>
+    <longitud>-65.4137564</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7946923</latitud>
+    <longitud>-65.4129611</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>410.16</peso>
+  <distancia>410.16</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7946923</latitud>
+    <longitud>-65.4129611</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7950258</latitud>
+    <longitud>-65.4089123</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>284.64</peso>
+  <distancia>284.64</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7950258</latitud>
+    <longitud>-65.4089123</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.795245</latitud>
+    <longitud>-65.4061013</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>463.96</peso>
+  <distancia>463.96</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.795245</latitud>
+    <longitud>-65.4061013</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.795581</latitud>
+    <longitud>-65.4015175</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>412.23</peso>
+  <distancia>412.23</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.795581</latitud>
+    <longitud>-65.4015175</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7966718</latitud>
+    <longitud>-65.3976122</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>1473.72</peso>
+  <distancia>1473.72</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7966718</latitud>
+    <longitud>-65.3976122</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7998737</latitud>
+    <longitud>-65.3834367</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>324.67</peso>
+  <distancia>324.67</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7998737</latitud>
+    <longitud>-65.3834367</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7994646</latitud>
+    <longitud>-65.3802502</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>796.52</peso>
+  <distancia>796.52</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>1</mediotransporte>
+  <nodo>
+    <latitud>-24.7994646</latitud>
+    <longitud>-65.3802502</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.7974096</latitud>
+    <longitud>-65.3726864</longitud>
+    <tipo>0</tipo>
+  </nodo>
+</enlace>
+<enlace>
+  <peso>623.3</peso>
+  <distancia>62.33</distancia>
+  <duracion>0</duracion>
+  <mediotransporte>0</mediotransporte>
+  <nodo>
+    <latitud>-24.7974096</latitud>
+    <longitud>-65.3726864</longitud>
+    <tipo>0</tipo>
+  </nodo>
+  <nodo>
+    <latitud>-24.79739</latitud>
+    <longitud>-65.372069</longitud>
+    <tipo>2</tipo>
+  </nodo>
+</enlace>

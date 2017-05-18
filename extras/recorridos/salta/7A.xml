@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name> CORREDOR 7A con paradas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>RECORRIDO 7A</name>
+			<Placemark>
+				<name>Línea 1</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.3946422,-24.7266628,0.0 -65.3973256,-24.7263289,0.0 -65.3972973,-24.7261753,0.0 -65.3945933,-24.7265187,0.0 -65.395272,-24.728704,0.0 -65.3955197,-24.7294424,0.0 -65.3993013,-24.7284113,0.0 -65.4002653,-24.7312251,0.0 -65.4008811,-24.7329213,0.0 -65.4010461,-24.733156,0.0 -65.4014902,-24.7338854,0.0 -65.40199,-24.7337125,0.0 -65.402479,-24.7335883,0.0 -65.4021132,-24.7309566,0.0 -65.4017958,-24.7310011,0.0 -65.4002653,-24.7312251,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 2</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4014902,-24.7338854,0.0 -65.3979171,-24.7357888,0.0 -65.3984123,-24.7366091,0.0 -65.4008884,-24.7405204,0.0 -65.400985,-24.740613,0.0 -65.401103,-24.740613,0.0 -65.401162,-24.740662,0.0 -65.401183,-24.740774,0.0 -65.401162,-24.740862,0.0 -65.400808,-24.740949,0.0 -65.400121,-24.74112,0.0 -65.399735,-24.741154,0.0 -65.399568,-24.741164,0.0 -65.399386,-24.741183,0.0 -65.399273,-24.741271,0.0 -65.3991684,-24.7414118,0.0 -65.3992336,-24.741539,0.0 -65.39967,-24.742158,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 3</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4067563,-24.7523735,0.0 -65.4048196,-24.7500802,0.0 -65.402824,-24.7472852,0.0 -65.4010941,-24.7446656,0.0 -65.399273,-24.741968,0.0 -65.399155,-24.741812,0.0 -65.399027,-24.741632,0.0 -65.398892,-24.741534,0.0 -65.398779,-24.741428,0.0 -65.398742,-24.7413,0.0 -65.398796,-24.741203,0.0 -65.398903,-24.741149,0.0 -65.399166,-24.741062,0.0 -65.400298,-24.740784,0.0 -65.400593,-24.740706,0.0 -65.400722,-24.740672,0.0 -65.40084,-24.740638,0.0 -65.4009335,-24.7405522,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 4</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.3996679,-24.7421655,0.0 -65.4036799,-24.7481285,0.0 -65.4044303,-24.7492112,0.0 -65.405229,-24.7502013,0.0 -65.4068318,-24.7521815,0.0 -65.4058729,-24.7551362,0.0 -65.4055616,-24.7561292,0.0 -65.4068989,-24.7564885,0.0 -65.4064855,-24.7576838,0.0 -65.4051578,-24.7573241,0.0 -65.4055616,-24.7561292,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 5</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4064855,-24.7576838,0.0 -65.4056594,-24.7601454,0.0 -65.4049196,-24.7625431,0.0 -65.404598,-24.763798,0.0 -65.4073746,-24.7642209,0.0 -65.4074967,-24.7635832,0.0 -65.4077013,-24.7629091,0.0 -65.4083303,-24.7608616,0.0 -65.4056594,-24.7601454,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 6</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4073746,-24.7642209,0.0 -65.4086566,-24.764439,0.0 -65.4089512,-24.7645363,0.0 -65.4090759,-24.7647841,0.0 -65.4090251,-24.7650215,0.0 -65.4086337,-24.7653524,0.0 -65.4087451,-24.7666672,0.0 -65.4101971,-24.7809809,0.0 -65.41045,-24.78369,0.0 -65.4131721,-24.7835253,0.0 -65.4145066,-24.7971236,0.0 -65.4045446,-24.7979192,0.0 -65.4005771,-24.798023,0.0 -65.3992405,-24.7979277,0.0 -65.3979146,-24.7979104,0.0 -65.39796,-24.79736,0.0 -65.3978544,-24.7969617,0.0 -65.3976442,-24.7966257,0.0 -65.3972362,-24.7962252,0.0 -65.3970964,-24.795927,0.0 -65.3971405,-24.7956462,0.0 -65.3972688,-24.7954307,0.0 -65.39749,-24.79526,0.0 -65.3979394,-24.7952031,0.0 -65.3984411,-24.7950927,0.0 -65.39841,-24.79491,0.0 -65.3980321,-24.7938346,0.0 -65.3999423,-24.7924267,0.0 -65.4014534,-24.7918072,0.0 -65.4016756,-24.7917309,0.0 -65.4018457,-24.7916937,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 7</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.401845,-24.7917055,0.0 -65.401821,-24.791965,0.0 -65.401788,-24.792145,0.0 -65.40167,-24.792452,0.0 -65.401536,-24.79273,0.0 -65.401086,-24.793387,0.0 -65.400774,-24.793747,0.0 -65.400694,-24.793918,0.0 -65.4006166,-24.7941446,0.0 -65.403073,-24.794025,0.0 -65.4067711,-24.7939074,0.0 -65.4104745,-24.7937605,0.0 -65.4113473,-24.7935456,0.0 -65.41277,-24.79333,0.0 -65.4168646,-24.7931155,0.0 -65.4183698,-24.793019,0.0 -65.41775,-24.78678,0.0 -65.4174977,-24.7844826,0.0 -65.4157752,-24.7846187,0.0 -65.4140581,-24.784711,0.0 -65.41064,-24.7849928,0.0 -65.4092032,-24.7850968,0.0 -65.4073,-24.76609,0.0 -65.4072544,-24.7652256,0.0 -65.4072797,-24.7647306,0.0 -65.4073746,-24.7642209,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paradas 7A</name>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408396,-24.76435,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407104,-24.764133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404725,-24.763622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406389,-24.758249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4053,-24.757177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406066,-24.754807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406653,-24.752972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406714,-24.751938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407201,-24.760616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406158,-24.758464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406738,-24.756671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405828,-24.755045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406607,-24.752615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40363,-24.748029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405672,-24.756018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405642,-24.756239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405843,-24.760245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405827,-24.759999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405862,-24.751424,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.403412,-24.748317,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406062,-24.751124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404678,-24.749487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404379,-24.749659,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405053,-24.762395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40784,-24.762228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407235,-24.764463,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408852,-24.767192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407354,-24.767658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407614,-24.770189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409124,-24.769726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409378,-24.772188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407875,-24.772811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409624,-24.774639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408111,-24.775151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408275,-24.776883,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409952,-24.77719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408487,-24.778949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.41024,-24.780874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.410498,-24.783248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408915,-24.783158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.411032,-24.785032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413285,-24.784026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.415056,-24.78474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417426,-24.784881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.411031,-24.785033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417927,-24.789677,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413637,-24.788058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417892,-24.792967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.414002,-24.791619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.412091,-24.793352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.414409,-24.795617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413369,-24.797262,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.410482,-24.797492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407751,-24.797703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404881,-24.797959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.402088,-24.798054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399419,-24.798058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398055,-24.7939875,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.39931,-24.792805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4008419,-24.7937656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.403425,-24.7939609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406567,-24.793857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.412104,-24.79335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398981,-24.740884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399435,-24.7412,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400395,-24.739494,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400412,-24.739859,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399457,-24.738444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399464,-24.738093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398579,-24.737055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398616,-24.736691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397925,-24.736027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398131,-24.735777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399432,-24.735091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400044,-24.734557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.401494,-24.733703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4023909,-24.7335395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400213,-24.730781,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399906,-24.7297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3991936,-24.7283699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397349,-24.728856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.395577,-24.729366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.395322,-24.728495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.394998,-24.727486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397048,-24.726148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.402195,-24.732429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.402071,-24.7310608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400622,-24.731308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399721,-24.729928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3993,-24.728643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397558,-24.728972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3957849,-24.7294074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.395189,-24.728596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.394954,-24.727742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<description><![CDATA[7A    <br>       <br>   Id   0    <br>   REcorrido   7A]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3955676,-24.7263093,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CONTROL 7A</name>
+			<Placemark>
+				<name>CONTROL 7A</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.39563,-24.726602,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

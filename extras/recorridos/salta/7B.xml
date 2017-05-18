@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CORREDOR 7B con paradas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>RECORRIDO 7B</name>
+			<Placemark>
+				<name>Línea 1</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.3946339,-24.7266529,0.0 -65.3946124,-24.7265083,0.0 -65.3973077,-24.7261792,0.0 -65.397323,-24.7263152,0.0 -65.3946339,-24.7266529,0.0 -65.394779,-24.7271009,0.0 -65.3925215,-24.7280089,0.0 -65.392633,-24.729542,0.0 -65.39273,-24.729981,0.0 -65.3928098,-24.7301709,0.0 -65.3928397,-24.7301706,0.0 -65.3930787,-24.7301117,0.0 -65.399306,-24.7284096,0.0 -65.400229,-24.731267,0.0 -65.400766,-24.732885,0.0 -65.4014599,-24.733891,0.0 -65.4024495,-24.7336031,0.0 -65.4024799,-24.7335275,0.0 -65.4021331,-24.7311332,0.0 -65.4021121,-24.7309602,0.0 -65.4002236,-24.7312244,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 2</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4014599,-24.733891,0.0 -65.3978986,-24.735801,0.0 -65.400873,-24.7405116,0.0 -65.401012,-24.740583,0.0 -65.401109,-24.740631,0.0 -65.401205,-24.740738,0.0 -65.401152,-24.740875,0.0 -65.400969,-24.740924,0.0 -65.400122,-24.741128,0.0 -65.3998,-24.741128,0.0 -65.399435,-24.741128,0.0 -65.399306,-24.741235,0.0 -65.399178,-24.741372,0.0 -65.399242,-24.741557,0.0 -65.403714,-24.748156,0.0 -65.403394,-24.748144,0.0 -65.39906,-24.741654,0.0 -65.398974,-24.741557,0.0 -65.398845,-24.741479,0.0 -65.398749,-24.741343,0.0 -65.398759,-24.741216,0.0 -65.399017,-24.741089,0.0 -65.400411,-24.740758,0.0 -65.401012,-24.740583,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 3</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.40370500000002,-24.748144,0.0 -65.405302,-24.748147,0.0 -65.407877,-24.748829,0.0 -65.407138,-24.751262,0.0 -65.411151,-24.752333,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 4</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.409788,-24.751992,0.0 -65.407428,-24.759241,0.0 -65.41011,-24.759952,0.0 -65.408941,-24.763606,0.0 -65.40871,-24.764424,0.0 -65.408952,-24.76457,0.0 -65.409027,-24.764687,0.0 -65.409037,-24.764892,0.0 -65.408962,-24.765096,0.0 -65.40878,-24.765194,0.0 -65.40863,-24.765281,0.0 -65.408941,-24.768603,0.0 -65.409477,-24.77363,0.0 -65.40996,-24.778608,0.0 -65.4104,-24.783206,0.0 -65.410464,-24.783683,0.0 -65.413168,-24.783507,0.0 -65.4133959,-24.7859594,0.0 -65.4136349,-24.7883777,0.0 -65.4137556,-24.7896369,0.0 -65.414016,-24.792098,0.0 -65.4142466,-24.7946306,0.0 -65.4145173,-24.797122,0.0 -65.413116,-24.7972497,0.0 -65.408952,-24.797543,0.0 -65.4075492,-24.7976772,0.0 -65.406184,-24.7977821,0.0 -65.4044968,-24.797933,0.0 -65.40334,-24.797933,0.0 -65.401955,-24.797984,0.0 -65.400583,-24.797952,0.0 -65.399242,-24.797942,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 5</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.39923,-24.79794,0.0 -65.39796,-24.79782,0.0 -65.39799,-24.79741,0.0 -65.39785,-24.79677,0.0 -65.39719,-24.79607,0.0 -65.39718,-24.79565,0.0 -65.39726,-24.79546,0.0 -65.39748,-24.795280000000005,0.0 -65.39846,-24.795096,0.0 -65.398073,-24.793765000000004,0.0 -65.399911,-24.792423000000003,0.0 -65.401536,-24.791799,0.0 -65.401735,-24.791748,0.0 -65.40181,-24.791763,0.0 -65.401858,-24.791809,0.0 -65.40184200000002,-24.791994,0.0 -65.401724,-24.79233,0.0 -65.40144,-24.79289,0.0 -65.40074,-24.7938,0.0 -65.40067,-24.79397,0.0 -65.40082,-24.79411,0.0 -65.41065,-24.793700000000005,0.0 -65.41136,-24.79352,0.0 -65.41278,-24.7933,0.0 -65.41838,-24.79298,0.0 -65.41765,-24.78623,0.0 -65.41751,-24.78445,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 6</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.417535,-24.784443,0.0 -65.4124756,-24.7848368,0.0 -65.4092061,-24.785083,0.0 -65.408716,-24.779991,0.0 -65.408308,-24.776212,0.0 -65.4079221,-24.7725097,0.0 -65.407568,-24.76874,0.0 -65.407256,-24.765242,0.0 -65.407353,-24.7642,0.0 -65.408018,-24.762047,0.0 -65.409177,-24.758413,0.0 -65.410357,-24.754759,0.0 -65.411162,-24.752343,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paradas 7B</name>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.41022,-24.754886,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.411011,-24.752461,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409585,-24.75191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409086,-24.754223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40849,-24.751764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407256,-24.751115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407762,-24.749054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407654,-24.748723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405898,-24.748264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.405474,-24.748289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404052,-24.748216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.403615,-24.748027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408338,-24.756687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407559,-24.759111,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409856,-24.759856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40946,-24.762226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408777,-24.764291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408764,-24.765326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40885,-24.767171,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409122,-24.769706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409379,-24.772193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409624,-24.774636,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409926,-24.777183,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.410244,-24.780915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40849,-24.778981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408277,-24.776901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408108,-24.775115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407874,-24.772803,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407613,-24.770185,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407354,-24.767656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407244,-24.764399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407842,-24.762222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408637,-24.759782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.409411,-24.757391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.410494,-24.783207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413285,-24.784033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413638,-24.788063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.414002,-24.791616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.414407,-24.795596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.413314,-24.797267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.410478,-24.797492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.407728,-24.797704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.404864,-24.79796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.402068,-24.798067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.39945,-24.798059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399282,-24.792826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398059,-24.794146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400916,-24.793713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.403414,-24.793995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.406552,-24.793858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.412094,-24.793352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417864,-24.792968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417959,-24.789663,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.417425,-24.784872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.415017,-24.784742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.411029,-24.785033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.408915,-24.783164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.398992,-24.740881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399488,-24.741176,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400406,-24.739849,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.40039,-24.739485,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399449,-24.738442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399468,-24.738099,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3985844,-24.736977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3986059,-24.7367487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3979616,-24.7360211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3980177,-24.7357792,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399365,-24.7350682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400039,-24.73456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.401501,-24.733714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.402301,-24.733575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4022684,-24.7324091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4020871,-24.7310903,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4005085,-24.7312379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.400218,-24.730794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3998129,-24.7296924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3991702,-24.7283743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397345,-24.728834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.395602,-24.729376,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.394364,-24.72972,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.392892,-24.730096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.392687,-24.729125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.392616,-24.728053,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.39376,-24.727565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.394529,-24.727277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3972069,-24.7261043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.39468,-24.729773,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.395777,-24.72947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399331,-24.728666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.399713,-24.729904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.393027,-24.730225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.392499,-24.729179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.392441,-24.728123,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.393537,-24.727548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.394551,-24.727136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.397534,-24.728979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7B</name>
+				<description><![CDATA[7B    <br>       <br>   Id   0    <br>   PArada   7B]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3955837,-24.7263337,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CONTROL 7B</name>
+			<Placemark>
+				<name>CONTROL 7B</name>
+				<description><![CDATA[DIR: Av Raymundin ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.3955522,-24.7266166,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

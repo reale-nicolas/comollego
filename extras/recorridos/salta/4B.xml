@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Corredor 4B con paradas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>RECORRIDO 4B</name>
+			<Placemark>
+				<name>Línea 1</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4473666,-24.8006503,0.0 -65.4469149,-24.8018887,0.0 -65.444256,-24.8011086,0.0 -65.4441532,-24.8011247,0.0 -65.4398705,-24.8014928,0.0 -65.4397022,-24.8014786,0.0 -65.4376445,-24.8003684,0.0 -65.4374123,-24.8001883,0.0 -65.4372766,-24.8001738,0.0 -65.4366073,-24.8001898,0.0 -65.4364473,-24.800175,0.0 -65.4362418,-24.8001577,0.0 -65.4362374,-24.8001111,0.0 -65.4365066,-24.7997919,0.0 -65.4374135,-24.7981934,0.0 -65.4382583,-24.798615,0.0 -65.4389062,-24.7975367,0.0 -65.4423238,-24.7992804,0.0 -65.4448403,-24.7990987,0.0 -65.4455598,-24.7992977,0.0 -65.4473479,-24.8006284,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 2</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4365372,-24.8001894,0.0 -65.4369771,-24.8014506,0.0 -65.4364863,-24.8033711,0.0 -65.4366552,-24.8034419,0.0 -65.4368592,-24.803459,0.0 -65.4374601,-24.8033299,0.0 -65.4376856,-24.8032593,0.0 -65.4377716,-24.8032763,0.0 -65.437868,-24.8033179,0.0 -65.4378894,-24.8034179,0.0 -65.437841,-24.8035569,0.0 -65.4376734,-24.8035819,0.0 -65.4374735,-24.80349,0.0 -65.437106,-24.80354,0.0 -65.436789,-24.8036277,0.0 -65.433927,-24.804344,0.0 -65.432961,-24.801403,0.0 -65.4342464,-24.801976,0.0 -65.4348636,-24.8023804,0.0 -65.4355507,-24.8028139,0.0 -65.4359018,-24.8030256,0.0 -65.4364837,-24.8033882,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 3</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.432961,-24.801403,0.0 -65.432777,-24.8008565,0.0 -65.4326104,-24.7988401,0.0 -65.4303519,-24.7987455,0.0 -65.42981,-24.801183,0.0 -65.42966,-24.801338,0.0 -65.429424,-24.801397,0.0 -65.427128,-24.801007,0.0 -65.426846,-24.80224,0.0 -65.420322,-24.80113,0.0 -65.4205877,-24.7999195,0.0 -65.4186037,-24.7995926,0.0 -65.4175579,-24.7994307,0.0 -65.4161393,-24.7995416,0.0 -65.4154489,-24.7932727,0.0 -65.4151647,-24.7906429,0.0 -65.4150932,-24.789534,0.0 -65.4149209,-24.787007,0.0 -65.4143067,-24.7808705,0.0 -65.4171067,-24.78069,0.0 -65.416375,-24.773145,0.0 -65.415013,-24.773239,0.0 -65.41507,-24.773949,0.0 -65.415149,-24.774017,0.0 -65.415342,-24.7741,0.0 -65.415448,-24.774166,0.0 -65.415522,-24.774263,0.0 -65.415593,-24.774435,0.0 -65.415567,-24.774618,0.0 -65.415483,-24.774785,0.0 -65.415342,-24.774897,0.0 -65.4151511,-24.774989,0.0 -65.4156952,-24.7804731,0.0 -65.4158269,-24.782115,0.0 -65.4126396,-24.7822984,0.0 -65.4075694,-24.7826545,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 4</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4075694,-24.7826545,0.0 -65.4080886,-24.7876116,0.0 -65.4068014,-24.7876626,0.0 -65.4065232,-24.7875556,0.0 -65.4060523,-24.7873761,0.0 -65.405793,-24.7871051,0.0 -65.4053633,-24.7870083,0.0 -65.404866,-24.7870139,0.0 -65.4040674,-24.7869497,0.0 -65.4025823,-24.7869148,0.0 -65.4019715,-24.7904264,0.0 -65.4018469,-24.7917992,0.0 -65.4017546,-24.79221,0.0 -65.4015529,-24.7927022,0.0 -65.4012145,-24.7931981,0.0 -65.4009802,-24.7934855,0.0 -65.4008023,-24.7936841,0.0 -65.4006956,-24.7938715,0.0 -65.400608,-24.7941589,0.0 -65.4046312,-24.7939694,0.0 -65.4057979,-24.7939468,0.0 -65.4070372,-24.7939005,0.0 -65.4086633,-24.7938233,0.0 -65.4099212,-24.793779,0.0 -65.4107094,-24.7937056,0.0 -65.4114761,-24.7935234,0.0 -65.4130055,-24.7933262,0.0 -65.4168488,-24.7931147,0.0 -65.4174045,-24.7981617,0.0 -65.4178315,-24.7981464,0.0 -65.4185785,-24.7983312,0.0 -65.420849,-24.7987692,0.0 -65.4228192,-24.7990148,0.0 -65.4253472,-24.7994333,0.0 -65.4281234,-24.7999085,0.0 -65.4319403,-24.8005103,0.0 -65.4324315,-24.8006646,0.0 -65.4327617,-24.8006557,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paradas</name>
+			<Placemark>
+				<name>Parada 1</name>
+				<description><![CDATA[MONJE Y ORTEGA ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4418766,-24.8012956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 2</name>
+				<description><![CDATA[MONJE Y ORTEGA ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4399776,-24.8015489,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 63</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4470158,-24.8018313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 62</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4472518,-24.8005165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 61</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4451489,-24.7991432,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 60</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4421985,-24.7991725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 59</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4408252,-24.798481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 58</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.43951630000001,-24.7978284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 57</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4381967,-24.7985394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 56</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4372793,-24.7983422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 55</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4365283,-24.800307100000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 54</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4369012,-24.8014661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 53</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4363272,-24.8032654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 52</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4352167,-24.8026202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 51</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4330039,-24.8012908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 50</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4312954,-24.8003169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 49</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4286856,-24.7999054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 48</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4260811,-24.7994793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 47</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.424748,-24.7992723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 46</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4234337,-24.7990313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 45</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4208052,-24.7986928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 44</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4185361,-24.7982399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 43</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4170179,-24.7937475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 42</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4125333,-24.793241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 41</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4080272,-24.7937962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 40</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4042184,-24.7939423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 39</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4008067,-24.7937475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 38</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4019976,-24.7913319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 37</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4024911,-24.7878255,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 36</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4061925,-24.7874553,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 35</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408054,-24.7865057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 34</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4092073,-24.782585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 33</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4124475,-24.7823902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 32</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4155266,-24.7781042,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 31</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4152477,-24.7753377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 30</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4152155,-24.7732628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 29</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.41646,-24.7744805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 28</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4167283,-24.7769937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 27</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4169858,-24.779555600000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 26</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4143786,-24.781786300000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 25</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4146254,-24.7843286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 24</name>
+				<description><![CDATA[Pellegrini y Belgrano ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4148922,-24.787375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 23</name>
+				<description><![CDATA[Pellegrini y Urquiza ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4152758,-24.7923436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 22</name>
+				<description><![CDATA[Pellegrini y Pje. Baigorria ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4155803,-24.7950989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 21</name>
+				<description><![CDATA[Pellegrini y Pje. Gauna ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4160054,-24.7989752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 20</name>
+				<description><![CDATA[Tucuman y Isla Malvina ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4183551,-24.7995864,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 19</name>
+				<description><![CDATA[Tucuman y Gral. Paz ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4206255,-24.7999565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 18</name>
+				<description><![CDATA[Corrientes y Pje. Lerma ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4209447,-24.8013103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 17</name>
+				<description><![CDATA[Corrientes y 10 de Octubre ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4229885,-24.801656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 16</name>
+				<description><![CDATA[Corrientes y Chacabuco]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4256493,-24.8021332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 15</name>
+				<description><![CDATA[Tucuman y Cnel. Moldes ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4271889,-24.8010619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 14</name>
+				<description><![CDATA[Tucuman y Ayacucho ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4285944,-24.8013151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 14</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.430417,-24.7987841,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 12</name>
+				<description><![CDATA[Olavarria Y Pje. Metan ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4325694,-24.7988949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 11</name>
+				<description><![CDATA[Olavarria y 20 de Junio ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4329288,-24.8014709,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 10</name>
+				<description><![CDATA[Olavarria y Mariano Moreno ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4334384,-24.802970800000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 9</name>
+				<description><![CDATA[Azcuenaga y Olavarria ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4340339,-24.8043781,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 8</name>
+				<description><![CDATA[Azcuenaga y Beltran ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4359382,-24.803896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 7</name>
+				<description><![CDATA[Av. Usandivara y 20 de junio]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4365605,-24.803263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 5</name>
+				<description><![CDATA[Av. Usandivara ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4370004,-24.80132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 4</name>
+				<description><![CDATA[Cnel. Vidt y Av. Usandibara]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4366356,-24.8002049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parada 3</name>
+				<description><![CDATA[MONJE Y ORTEGAS ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4377782,-24.8005555,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CONTROL 4B</name>
+			<Placemark>
+				<name>CONTROL 4B</name>
+				<description><![CDATA[DIR: MONGE Y ORTEGA 2069                                     ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.4436952,-24.8012177,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

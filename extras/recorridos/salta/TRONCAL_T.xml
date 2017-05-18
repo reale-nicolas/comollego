@@ -1,0 +1,879 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>TRONCAL TRANSVERSAL con Paradas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Recorrido TRANSVERSAL 8</name>
+			<Placemark>
+				<name>Línea 5</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.394741,-24.741918,0.0 -65.394703,-24.742076,0.0 -65.394702,-24.742296,0.0 -65.394801,-24.742674,0.0 -65.39502,-24.742929,0.0 -65.395278,-24.743048,0.0 -65.396298,-24.743606,0.0 -65.396712,-24.744206,0.0 -65.397053,-24.745142,0.0 -65.39693,-24.74563,0.0 -65.396794,-24.746129,0.0 -65.396811,-24.746348,0.0 -65.397327,-24.748382,0.0 -65.39799,-24.750313,0.0 -65.398683,-24.752356,0.0 -65.39896,-24.75317,0.0 -65.399253,-24.753877,0.0 -65.39942,-24.754523,0.0 -65.39946,-24.75524,0.0 -65.399361,-24.75583,0.0 -65.39832,-24.760537,0.0 -65.398339,-24.760842,0.0 -65.398387,-24.761158,0.0 -65.39852,-24.76157,0.0 -65.39877,-24.76192,0.0 -65.39882,-24.76215,0.0 -65.3988,-24.7624,0.0 -65.39857,-24.76282,0.0 -65.39827,-24.7631,0.0 -65.39807,-24.76346,0.0 -65.39794,-24.76385,0.0 -65.39794,-24.76437,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 2</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.407634,-24.730293,0.0 -65.410418,-24.729969,0.0 -65.410683,-24.729944,0.0 -65.410796,-24.72996,0.0 -65.410883,-24.729956,0.0 -65.411258,-24.729801,0.0 -65.411545,-24.729794,0.0 -65.411793,-24.729842,0.0 -65.412016,-24.729788,0.0 -65.412818,-24.729825,0.0 -65.415836,-24.729754,0.0 -65.41577,-24.727676,0.0 -65.421108,-24.727565,0.0 -65.421151,-24.729072,0.0 -65.421167,-24.729556,0.0 -65.420586,-24.729596,0.0 -65.419997,-24.729582,0.0 -65.419844,-24.729559,0.0 -65.412404,-24.729694,0.0 -65.4119085,-24.7295902,0.0 -65.4118904,-24.7295375,0.0 -65.4118596,-24.7293736,0.0 -65.411025,-24.724542,0.0 -65.410966,-24.724437,0.0 -65.410829,-24.724408,0.0 -65.410716,-24.724485,0.0 -65.410289,-24.72456,0.0 -65.409899,-24.724527,0.0 -65.409812,-24.724587,0.0 -65.409758,-24.724676,0.0 -65.41021,-24.727,0.0 -65.410367,-24.727934,0.0 -65.410476,-24.728372,0.0 -65.41052,-24.72881,0.0 -65.41065,-24.7296,0.0 -65.410654,-24.729745,0.0 -65.410513,-24.729789,0.0 -65.410177,-24.729841,0.0 -65.409888,-24.729879,0.0 -65.409498,-24.729918,0.0 -65.408643,-24.730032,0.0 -65.407578,-24.730174,0.0 -65.40773,-24.731076,0.0 -65.40811,-24.73354,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 4</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.39556,-24.74347,0.0 -65.39517,-24.74313,0.0 -65.39498,-24.74303,0.0 -65.39482,-24.74306,0.0 -65.394717,-24.743017,0.0 -65.39471,-24.74293,0.0 -65.39469,-24.74245,0.0 -65.3946,-24.74217,0.0 -65.39428,-24.7419,0.0 -65.394203,-24.741877,0.0 -65.39412,-24.74188,0.0 -65.39381,-24.74214,0.0 -65.393723,-24.742174,0.0 -65.393613,-24.742162,0.0 -65.393565,-24.742084,0.0 -65.393575,-24.742025,0.0 -65.393602,-24.741981,0.0 -65.393696,-24.741877,0.0 -65.393841,-24.741735,0.0 -65.39397,-24.74166,0.0 -65.394133,-24.741643,0.0 -65.39427,-24.741674,0.0 -65.39448,-24.7418,0.0 -65.394597,-24.741789,0.0 -65.394741,-24.741918,0.0 -65.396017,-24.742011,0.0 -65.39856,-24.74132,0.0 -65.39906,-24.74108,0.0 -65.40009,-24.74085,0.0 -65.408753,-24.738548,0.0 -65.408817,-24.738469,0.0 -65.408833,-24.738356,0.0 -65.40811,-24.73354,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 3</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.407634,-24.730293,0.0 -65.40804,-24.732886,0.0 -65.408087,-24.733197,0.0 -65.408122,-24.73338,0.0 -65.408174,-24.733717,0.0 -65.408198,-24.733894,0.0 -65.408243,-24.734028,0.0 -65.408294,-24.734141,0.0 -65.408328,-24.73434,0.0 -65.408461,-24.735322,0.0 -65.408594,-24.736212,0.0 -65.408733,-24.737118,0.0 -65.408886,-24.73827,0.0 -65.408937,-24.738411,0.0 -65.409037,-24.738496,0.0 -65.409112,-24.738587,0.0 -65.409128,-24.738703,0.0 -65.409063,-24.738791,0.0 -65.408511,-24.738923,0.0 -65.405056,-24.739824,0.0 -65.401635,-24.740729,0.0 -65.400047,-24.741138,0.0 -65.399564,-24.741148,0.0 -65.399317,-24.741235,0.0 -65.399167,-24.74143,0.0 -65.399017,-24.741538,0.0 -65.398834,-24.741518,0.0 -65.398588,-24.74145,0.0 -65.39833,-24.741501,0.0 -65.396613,-24.741976,0.0 -65.396209,-24.742093,0.0 -65.395905,-24.74222,0.0 -65.395787,-24.742288,0.0 -65.39539,-24.742522,0.0 -65.395094,-24.742747,0.0 -65.395001,-24.74289,0.0 -65.394999,-24.742978,0.0 -65.39498,-24.74303,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 6</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.3978,-24.7644,0.0 -65.39776,-24.76368,0.0 -65.39758,-24.76329,0.0 -65.39729,-24.762895,0.0 -65.397135,-24.762756,0.0 -65.397035,-24.762629,0.0 -65.39697,-24.7625,0.0 -65.3969,-24.76227,0.0 -65.396947,-24.76205,0.0 -65.397041,-24.761801,0.0 -65.39715,-24.76163,0.0 -65.397336,-24.761502,0.0 -65.39753,-24.76138,0.0 -65.397701,-24.761222,0.0 -65.39786,-24.76104,0.0 -65.397982,-24.760878,0.0 -65.39808,-24.76068,0.0 -65.39821,-24.760284,0.0 -65.39831,-24.75984,0.0 -65.398975,-24.756852,0.0 -65.399166,-24.75603,0.0 -65.399313,-24.755116,0.0 -65.399298,-24.754668,0.0 -65.399223,-24.754278,0.0 -65.3985,-24.75218,0.0 -65.397822,-24.750144,0.0 -65.397464,-24.749156,0.0 -65.39729,-24.74864,0.0 -65.397146,-24.74818,0.0 -65.396877,-24.747114,0.0 -65.39661,-24.7461,0.0 -65.39556,-24.74347,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 7</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.397934,-24.764349,0.0 -65.397954,-24.768382,0.0 -65.397988,-24.770338,0.0 -65.397995,-24.771461,0.0 -65.398004,-24.771944,0.0 -65.398024,-24.772286,0.0 -65.398079,-24.77269,0.0 -65.398188,-24.772956,0.0 -65.398321,-24.773178,0.0 -65.398674,-24.773608,0.0 -65.399087,-24.773919,0.0 -65.399506,-24.774172,0.0 -65.400006,-24.774364,0.0 -65.400809,-24.774498,0.0 -65.401,-24.774604,0.0 -65.40118,-24.774798,0.0 -65.401336,-24.774985,0.0 -65.401601,-24.775127,0.0 -65.402116,-24.775355,0.0 -65.402678,-24.775965,0.0 -65.40298,-24.776391,0.0 -65.403093,-24.776548,0.0 -65.403214,-24.776921,0.0 -65.4033,-24.777559,0.0 -65.403409,-24.779096,0.0 -65.403525,-24.780304,0.0 -65.403561,-24.7809,0.0 -65.403524,-24.781452,0.0 -65.403085,-24.783908,0.0 -65.402844,-24.785472,0.0 -65.402569,-24.786941,0.0 -65.40204,-24.78994,0.0 -65.40198,-24.79032,0.0 -65.401902,-24.791099,0.0 -65.401878,-24.791449,0.0 -65.401843,-24.791894,0.0 -65.40176,-24.79226,0.0 -65.4015,-24.7928,0.0 -65.401168,-24.793246,0.0 -65.400844,-24.793669,0.0 -65.400701,-24.793841,0.0 -65.400538,-24.794555,0.0 -65.400462,-24.795157,0.0 -65.400433,-24.795248,0.0 -65.40028,-24.795298,0.0 -65.399404,-24.795562,0.0 -65.399166,-24.795634,0.0 -65.399031,-24.795679,0.0 -65.398674,-24.796129,0.0 -65.39848,-24.79664,0.0 -65.398314,-24.797612,0.0 -65.397898,-24.800555,0.0 -65.397106,-24.806248,0.0 -65.397265,-24.807537,0.0 -65.397354,-24.808795,0.0 -65.397423,-24.809495,0.0 -65.397454,-24.810034,0.0 -65.397527,-24.810822,0.0 -65.397575,-24.811364,0.0 -65.397585,-24.811599,0.0 -65.3975649,-24.8117412,0.0 -65.3977473,-24.811958,0.0 -65.398394,-24.812516,0.0 -65.4005249,-24.8137135,0.0 -65.4008668,-24.8138421,0.0 -65.4056385,-24.8163783,0.0 -65.4082565,-24.8177142,0.0 -65.4135411,-24.8204101,0.0 -65.4205108,-24.8241458,0.0 -65.4215137,-24.8246907,0.0 -65.4215188,-24.8248996,0.0 -65.43008,-24.82948,0.0 -65.430362,-24.829613,0.0 -65.430698,-24.829536,0.0 -65.430931,-24.829378,0.0 -65.431258,-24.829293,0.0 -65.43165,-24.82944,0.0 -65.43193,-24.82983,0.0 -65.431986,-24.830186,0.0 -65.431944,-24.830385,0.0 -65.431843,-24.830541,0.0 -65.43179,-24.831312,0.0 -65.431741,-24.831676,0.0 -65.431402,-24.832589,0.0 -65.431266,-24.832845,0.0 -65.431242,-24.833005,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 10</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.431173,-24.833108,0.0 -65.431161,-24.833622,0.0 -65.43117,-24.834583,0.0 -65.431253,-24.835858,0.0 -65.431433,-24.836488,0.0 -65.431673,-24.837152,0.0 -65.431994,-24.837844,0.0 -65.432635,-24.839205,0.0 -65.433863,-24.841868,0.0 -65.435895,-24.844065,0.0 -65.437861,-24.846193,0.0 -65.43865,-24.84705,0.0 -65.43921,-24.847688,0.0 -65.439487,-24.848003,0.0 -65.439594,-24.848148,0.0 -65.439798,-24.848395,0.0 -65.440085,-24.848755,0.0 -65.440444,-24.849252,0.0 -65.4411468,-24.8483401,0.0 -65.4421864,-24.8469301,0.0 -65.451304,-24.84464,0.0 -65.4513774,-24.8445821,0.0 -65.4513596,-24.8445047,0.0 -65.451409,-24.8444275,0.0 -65.4571618,-24.8430088,0.0 -65.4586238,-24.8492319,0.0 -65.4600378,-24.8554988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 8</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.3978,-24.7644,0.0 -65.39783,-24.77229,0.0 -65.39771,-24.77285,0.0 -65.397678,-24.773014,0.0 -65.397659,-24.773106,0.0 -65.397709,-24.7733,0.0 -65.397902,-24.773601,0.0 -65.39827,-24.773823,0.0 -65.398584,-24.773891,0.0 -65.401176,-24.775144,0.0 -65.401823,-24.775377,0.0 -65.401982,-24.775467,0.0 -65.402147,-24.775606,0.0 -65.402495,-24.776037,0.0 -65.402972,-24.77671,0.0 -65.403104,-24.7771,0.0 -65.40316,-24.77763,0.0 -65.403348,-24.780462,0.0 -65.403382,-24.780921,0.0 -65.403356,-24.78135,0.0 -65.40326,-24.78191,0.0 -65.40176,-24.79052,0.0 -65.40159,-24.79206,0.0 -65.40131,-24.79265,0.0 -65.401068,-24.793012,0.0 -65.40078,-24.793339,0.0 -65.400202,-24.793932,0.0 -65.399749,-24.794415,0.0 -65.399498,-24.794614,0.0 -65.399215,-24.794769,0.0 -65.398472,-24.795074,0.0 -65.398029,-24.795201,0.0 -65.397455,-24.79527,0.0 -65.3973,-24.79537,0.0 -65.397201,-24.795513,0.0 -65.397102,-24.795748,0.0 -65.3971,-24.795918,0.0 -65.397182,-24.796139,0.0 -65.397576,-24.796506,0.0 -65.39788,-24.79701,0.0 -65.397936,-24.79735,0.0 -65.397841,-24.798528,0.0 -65.39706,-24.80414,0.0 -65.39635,-24.8095,0.0 -65.396274,-24.80979,0.0 -65.396841,-24.810992,0.0 -65.39715,-24.8116,0.0 -65.3977,-24.81228,0.0 -65.39909,-24.81315,0.0 -65.399226,-24.814526,0.0 -65.400691,-24.814487,0.0 -65.40061,-24.81417,0.0 -65.400564,-24.813976,0.0 -65.40066,-24.81402,0.0 -65.40564,-24.81663,0.0 -65.40583,-24.81686,0.0 -65.4095,-24.81883,0.0 -65.426241,-24.82774,0.0 -65.426419,-24.827832,0.0 -65.426896,-24.827877,0.0 -65.428737,-24.828834,0.0 -65.430301,-24.829702,0.0 -65.430535,-24.829879,0.0 -65.4307,-24.830124,0.0 -65.43086,-24.830375,0.0 -65.431007,-24.830636,0.0 -65.43111,-24.830871,0.0 -65.431198,-24.831154,0.0 -65.431231,-24.831631,0.0 -65.431194,-24.83217,0.0 -65.43114,-24.83314,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 9</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.431242,-24.833005,0.0 -65.43119,-24.833337,0.0 -65.431209,-24.834375,0.0 -65.431232,-24.83548,0.0 -65.431272,-24.835934,0.0 -65.431366,-24.836272,0.0 -65.431588,-24.836858,0.0 -65.431899,-24.837591,0.0 -65.432283,-24.838436,0.0 -65.432502,-24.838883,0.0 -65.432897,-24.839731,0.0 -65.433218,-24.840383,0.0 -65.433514,-24.841049,0.0 -65.433699,-24.841439,0.0 -65.433817,-24.841474,0.0 -65.433897,-24.841496,0.0 -65.434036,-24.841721,0.0 -65.434235,-24.842023,0.0 -65.434535,-24.842364,0.0 -65.435339,-24.843211,0.0 -65.43614,-24.844044,0.0 -65.437748,-24.845757,0.0 -65.438061,-24.84608,0.0 -65.438386,-24.846359,0.0 -65.439864,-24.847283,0.0 -65.44855,-24.845095,0.0 -65.4571956,-24.8429615,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 11</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4571956,-24.8429615,0.0 -65.4579673,-24.8460802,0.0 -65.45868,-24.8491941,0.0 -65.4593954,-24.8523323,0.0 -65.4597505,-24.8539112,0.0 -65.4599414,-24.8546957,0.0 -65.460076,-24.8554121,0.0 -65.4601341,-24.8555003,0.0 -65.460215,-24.855549,0.0 -65.460369,-24.855522,0.0 -65.461152,-24.855365,0.0 -65.462223,-24.855165,0.0 -65.462287,-24.855316,0.0 -65.462474,-24.855273,0.0 -65.462438,-24.855137,0.0 -65.460366,-24.855546,0.0 -65.460228,-24.855584,0.0 -65.460095,-24.855574,0.0 -65.4600378,-24.8554988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paradas</name>
+			<Placemark>
+				<name>Punto 13</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.462441,-24.855162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 14</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.461848,-24.855191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 19</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.456833,-24.843107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 20</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.456758,-24.842995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 21</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.453072,-24.844049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 22</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.452917,-24.843946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 23</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.449998,-24.845051,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 24</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.449682,-24.844779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 27</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.445986,-24.845645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 28</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.446672,-24.845874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 29</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.443448,-24.846682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 30</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.443073,-24.846356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 31</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4413401,-24.8481747,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 32</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.439784,-24.847184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 33</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.437655,-24.846142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 34</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.436013,-24.844394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 35</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.436335,-24.844166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 36</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.431175,-24.83607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 37</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.431416,-24.835992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 38</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.431185,-24.830768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 39</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.43191,-24.830739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 40</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.425204,-24.827277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 42</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.426921,-24.827662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 43</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.423949,-24.826109,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 44</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.420977,-24.824293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 45</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.420322,-24.824663,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 46</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.41454,-24.821557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 47</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.414808,-24.821016,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 48</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.410479,-24.81939,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 49</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.411482,-24.819258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 50</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.406793,-24.817423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 51</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408279,-24.817637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 52</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.399079,-24.813318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 53</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.399664,-24.813128,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 54</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.396268,-24.809286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 55</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397489,-24.809384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 56</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.396848,-24.805279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 57</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397352,-24.805026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 58</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397492,-24.800361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 59</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397921,-24.801076,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 60</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397384,-24.796465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 61</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398393,-24.797604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 62</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.3999,-24.794093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 63</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.400742,-24.79402,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 64</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.401579,-24.791454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 65</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.402062,-24.790173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 66</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.402931,-24.785532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 67</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.402459,-24.78576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 68</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.40321,-24.781806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 69</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.403489,-24.782127,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 70</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.402867,-24.776643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 71</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.403172,-24.776443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 72</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.400024,-24.774661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 73</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.400973,-24.774505,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 74</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397744,-24.770793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 75</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398076,-24.77054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 76</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.397722,-24.768387,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 77</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398022,-24.768163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 80</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398822,-24.762513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 78</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.396982,-24.761689,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 81</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398602,-24.758158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 85</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.39371,-24.741833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 88</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.400834,-24.740566,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 89</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.404862,-24.739528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 92</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408767,-24.737073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 93</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408172,-24.734349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 95</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.407544,-24.730364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 103</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.411922,-24.729223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 99</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.410146,-24.727167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 100</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.409738,-24.724955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 97</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.409631,-24.72984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 101</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.411122,-24.724843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 102</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.411423,-24.726548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 98</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.410267,-24.730052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 105</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.418096,-24.729472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 106</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.421111,-24.729516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 109</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4158673,-24.7277079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 108</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.418971,-24.727674,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 110</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.41595,-24.72955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 111</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.459579,-24.853706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 113</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.458179,-24.847388,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 114</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.458388,-24.847646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 112</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.459729,-24.853458,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 107</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.421041,-24.72762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 94</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408344,-24.734057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 104</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4141,-24.729569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 90</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.405302,-24.739855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 83</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398881,-24.75352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 82</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398934,-24.758075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 87</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.40108,-24.740961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 84</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.399337,-24.753827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 91</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.408586,-24.737214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 96</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.407727,-24.730334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 105</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.393795,-24.741748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punto 86</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.398892,-24.741053,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CONTROL TRANSVERSAL 8</name>
+			<Placemark>
+				<name>CONTROL TRSNSVERSAL </name>
+				<description><![CDATA[DIR:Bº Santa Ana II (Nra Señora de San Nicolas y Sra de la Candelaria)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-65.462417,-24.8551897,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,2195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name> CORREDOR 5C con paradas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>RECORRIDO 5C</name>
+			<Placemark>
+				<name>Línea 1</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4472823,-24.8005883,0.0 -65.4454693,-24.7992636,0.0 -65.4448794,-24.7991038,0.0 -65.4437486,-24.7991722,0.0 -65.4430946,-24.7992112,0.0 -65.4424778,-24.7992599,0.0 -65.4422312,-24.7992307,0.0 -65.4402351,-24.7982127,0.0 -65.4408947,-24.7971564,0.0 -65.4387814,-24.7960118,0.0 -65.4404966,-24.7934353,0.0 -65.4391464,-24.7916678,0.0 -65.4306905,-24.792222,0.0 -65.4307814,-24.7934636,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 2</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4307814,-24.7934636,0.0 -65.422736,-24.79402,0.0 -65.4209497,-24.794127,0.0 -65.418187,-24.794234,0.0 -65.41558,-24.794429,0.0 -65.41523,-24.79135,0.0 -65.4150064,-24.7882254,0.0 -65.41433,-24.78098,0.0 -65.4035037,-24.7816838,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 3</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4035037,-24.7816838,0.0 -65.40296,-24.78461,0.0 -65.4024645,-24.7875537,0.0 -65.40227,-24.78858,0.0 -65.4020022,-24.7902368,0.0 -65.4018564,-24.7916359,0.0 -65.4017744,-24.7922179,0.0 -65.4015083,-24.7928259,0.0 -65.40073,-24.79383,0.0 -65.4006227,-24.7941504,0.0 -65.4045663,-24.7939503,0.0 -65.4086453,-24.7938398,0.0 -65.4104801,-24.7937401,0.0 -65.4114105,-24.7935384,0.0 -65.41294,-24.79333,0.0 -65.4196356,-24.7929783,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Línea 4</name>
+				<styleUrl>#line-0000FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-65.4196356,-24.7929783,0.0 -65.4198587,-24.7954427,0.0 -65.4213331,-24.7953927,0.0 -65.423376,-24.7952452,0.0 -65.42736,-24.79496,0.0 -65.4350346,-24.7944638,0.0 -65.4373263,-24.7943215,0.0 -65.43753,-24.79653,0.0 -65.43727,-24.79707,0.0 -65.4367661,-24.797893,0.0 -65.4375217,-24.7982663,0.0 -65.4368276,-24.7994894,0.0 -65.436612,-24.799883,0.0 -65.4365305,-24.8001792,0.0 -65.4399432,-24.8001813,0.0 -65.4426907,-24.7999838,0.0 -65.4446273,-24.799839,0.0 -65.4472823,-24.8005883,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>PARADAS 5C</name>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   0    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-0</styleUrl>
+				<Point>
+					<coordinates>-65.437469,-24.795349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   1    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-1</styleUrl>
+				<Point>
+					<coordinates>-65.436774,-24.794212,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   2    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-2</styleUrl>
+				<Point>
+					<coordinates>-65.436673,-24.799903,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   3    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-3</styleUrl>
+				<Point>
+					<coordinates>-65.4373289,-24.798035,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   4    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-4</styleUrl>
+				<Point>
+					<coordinates>-65.437556,-24.796471,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   5    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-5</styleUrl>
+				<Point>
+					<coordinates>-65.438025,-24.800088,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   6    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-6</styleUrl>
+				<Point>
+					<coordinates>-65.43972,-24.800085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   7    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-7</styleUrl>
+				<Point>
+					<coordinates>-65.441516,-24.799958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   8    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-8</styleUrl>
+				<Point>
+					<coordinates>-65.443007,-24.799832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   9    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-9</styleUrl>
+				<Point>
+					<coordinates>-65.445065,-24.799214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   10    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-10</styleUrl>
+				<Point>
+					<coordinates>-65.442417,-24.7992857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   11    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-11</styleUrl>
+				<Point>
+					<coordinates>-65.4410605,-24.7986631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   12    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-12</styleUrl>
+				<Point>
+					<coordinates>-65.4407,-24.7973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   13    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-13</styleUrl>
+				<Point>
+					<coordinates>-65.439074,-24.7962564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   14    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-14</styleUrl>
+				<Point>
+					<coordinates>-65.43938,-24.794993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   15    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-15</styleUrl>
+				<Point>
+					<coordinates>-65.440345,-24.793554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   16    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-16</styleUrl>
+				<Point>
+					<coordinates>-65.439212,-24.791858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   17    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-17</styleUrl>
+				<Point>
+					<coordinates>-65.436542,-24.791907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   18    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-18</styleUrl>
+				<Point>
+					<coordinates>-65.432685,-24.792167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   19    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-19</styleUrl>
+				<Point>
+					<coordinates>-65.430812,-24.792852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   20    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-20</styleUrl>
+				<Point>
+					<coordinates>-65.434772,-24.794411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   21    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-21</styleUrl>
+				<Point>
+					<coordinates>-65.429625,-24.793612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   22    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-22</styleUrl>
+				<Point>
+					<coordinates>-65.429321,-24.794759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   23    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-23</styleUrl>
+				<Point>
+					<coordinates>-65.426842,-24.793806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   24    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-24</styleUrl>
+				<Point>
+					<coordinates>-65.426456,-24.794953,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   25    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-25</styleUrl>
+				<Point>
+					<coordinates>-65.423758,-24.795141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   26    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-26</styleUrl>
+				<Point>
+					<coordinates>-65.424048,-24.794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   27    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-27</styleUrl>
+				<Point>
+					<coordinates>-65.4212883,-24.7940826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   28    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-28</styleUrl>
+				<Point>
+					<coordinates>-65.420925,-24.795323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   29    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-29</styleUrl>
+				<Point>
+					<coordinates>-65.44444,-24.79976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   30    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-30</styleUrl>
+				<Point>
+					<coordinates>-65.419787,-24.793912,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   31    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-31</styleUrl>
+				<Point>
+					<coordinates>-65.432097,-24.794574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5C</name>
+				<description><![CDATA[5C    <br>       <br>   FID   32    <br>   Id   0    <br>   Recorrido   5C]]></description>
+				<styleUrl>#icon-seq-1-32</styleUrl>
+				<Point>
+					<coordinates>-65.4187265,-24.7941669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   33    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-33</styleUrl>
+				<Point>
+					<coordinates>-65.415384,-24.793506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   34    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-34</styleUrl>
+				<Point>
+					<coordinates>-65.41508,-24.790256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   35    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-35</styleUrl>
+				<Point>
+					<coordinates>-65.41475,-24.786156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   36    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-36</styleUrl>
+				<Point>
+					<coordinates>-65.411841,-24.781193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   37    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-37</styleUrl>
+				<Point>
+					<coordinates>-65.407972,-24.781452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   38    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-38</styleUrl>
+				<Point>
+					<coordinates>-65.414398,-24.782799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   39    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-39</styleUrl>
+				<Point>
+					<coordinates>-65.404403,-24.781697,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   40    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-40</styleUrl>
+				<Point>
+					<coordinates>-65.402924,-24.785449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   41    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-41</styleUrl>
+				<Point>
+					<coordinates>-65.402121,-24.790026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   42    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-42</styleUrl>
+				<Point>
+					<coordinates>-65.400837,-24.79379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   43    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-43</styleUrl>
+				<Point>
+					<coordinates>-65.404258,-24.793948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   44    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-44</styleUrl>
+				<Point>
+					<coordinates>-65.407422,-24.793825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   45    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-45</styleUrl>
+				<Point>
+					<coordinates>-65.412528,-24.7931829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name></name>
+				<description><![CDATA[FID   46    <br>   Id   0    <br>   Recorrido]]></description>
+				<styleUrl>#icon-seq-1-46</styleUrl>
+				<Point>
+					<coordinates>-65.417664,-24.7928913,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CONTROL 5C</name>
+			<Placemark>
+				<name>CONTROL 5C</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-65.4464954,-24.8000344,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-0-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=A|FF0000|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-0-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=A|FF0000|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-0'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-0-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-0-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-1-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=B|FF1D00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-1-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=B|FF1D00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-10-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=K|DDFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-10-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=K|DDFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-10'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-10-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-10-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-11-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=L|C0FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-11-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=L|C0FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-11'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-11-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-11-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-12-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=M|A3FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-12-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=M|A3FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-12'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-12-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-12-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-13-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=N|86FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-13-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=N|86FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-13'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-13-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-13-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-14-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=O|69FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-14-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=O|69FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-14'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-14-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-14-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-15-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=P|4CFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-15-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=P|4CFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-15'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-15-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-15-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-16-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Q|2FFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-16-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Q|2FFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-16'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-16-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-16-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-17-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=R|12FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-17-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=R|12FF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-17'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-17-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-17-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-18-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=S|00FF0B|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-18-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=S|00FF0B|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-18'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-18-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-18-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-19-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=T|00FF28|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-19-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=T|00FF28|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-19'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-19-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-19-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-2-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=C|FF3A00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-2-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=C|FF3A00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-20-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=U|00FF45|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-20-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=U|00FF45|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-20'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-20-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-20-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-21-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=V|00FF62|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-21-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=V|00FF62|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-21'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-21-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-21-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=W|00FF7F|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=W|00FF7F|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-23-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=X|00FF9C|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-23-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=X|00FF9C|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-23'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-23-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-23-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-24-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Y|00FFB8|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-24-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Y|00FFB8|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-24'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-24-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-24-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-25-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Z|00FFD5|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-25-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=Z|00FFD5|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-25'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-25-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-25-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-26-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=a|00FFF2|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-26-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=a|00FFF2|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-26'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-26-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-26-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-27-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=b|00EFFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-27-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=b|00EFFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-27'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-27-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-27-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-28-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=c|00D2FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-28-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=c|00D2FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-28'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-28-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-28-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-29-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=d|00B5FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-29-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=d|00B5FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-29'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-29-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-29-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-3-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=D|FF5700|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-3-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=D|FF5700|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-30-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=e|0098FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-30-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=e|0098FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-30'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-30-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-30-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-31-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=f|007BFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-31-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=f|007BFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-31'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-31-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-31-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-32-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=g|005EFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-32-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=g|005EFF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-32'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-32-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-32-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-33-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=h|0041FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-33-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=h|0041FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-33'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-33-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-33-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-34-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=i|0024FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-34-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=i|0024FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-34'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-34-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-34-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-35-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=j|0007FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-35-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=j|0007FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-35'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-35-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-35-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-36-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=k|1600FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-36-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=k|1600FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-36'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-36-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-36-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-37-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=l|3300FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-37-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=l|3300FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-37'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-37-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-37-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-38-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=m|5000FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-38-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=m|5000FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-38'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-38-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-38-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-39-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=n|6D00FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-39-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=n|6D00FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-39'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-39-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-39-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-4-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=E|FF7400|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-4-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=E|FF7400|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-40-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=o|8900FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-40-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=o|8900FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-40'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-40-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-40-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-41-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=p|A600FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-41-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=p|A600FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-41'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-41-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-41-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-42-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=q|C300FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-42-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=q|C300FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-42'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-42-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-42-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-43-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=r|E000FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-43-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=r|E000FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-43'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-43-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-43-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-44-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=s|FD00FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-44-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=s|FD00FF|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-45-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=t|FF00E4|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-45-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=t|FF00E4|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-45'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-45-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-45-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-46-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=u|FF00C7|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-46-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=u|FF00C7|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-46'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-46-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-46-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-5-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=F|FF9100|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-5-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=F|FF9100|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-6-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=G|FFAE00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-6-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=G|FFAE00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-7-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=H|FFCB00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-7-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=H|FFCB00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-8-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=I|FFE700|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-8-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=I|FFE700|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-8'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-8-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-8-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-seq-1-9-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=J|FAFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-seq-1-9-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://chart.googleapis.com/chart?chst=d_map_pin_letter&amp;chld=J|FAFF00|000000</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-seq-1-9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-seq-1-9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-seq-1-9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0000FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-0000FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-0000FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0000FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0000FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
